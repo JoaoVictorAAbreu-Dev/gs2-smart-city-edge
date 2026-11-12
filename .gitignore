@@ -1,0 +1,8 @@
+# Credenciais (nunca versionar)
+secrets.h
+
+# Saida de compilacao do Arduino IDE
+build/
+*.elf
+*.map
+*.merged.bin
